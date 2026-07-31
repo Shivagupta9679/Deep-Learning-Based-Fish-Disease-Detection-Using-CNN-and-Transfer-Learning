@@ -1,7 +1,8 @@
-# Deep-Learning-Based-Fish-Disease-Detection-Using-CNN-and-Transfer-Learning
+# 🐟Deep-Learning-Based-Fish-Disease-Detection-Using-CNN-and-Transfer-Learning
 
 ## Project Overview
 Fish diseases are a major challenge in aquaculture, leading to reduced fish health, lower productivity, and economic losses. Early and accurate disease detection is essential for improving fish health management and preventing disease outbreaks.
+
 This project presents a deep learning-based fish disease detection system that classifies fish images as Healthy or Infected using computer vision techniques. The project implements and compares a Custom CNN, VGG16, and DenseNet with transfer learning to identify the most effective model for binary image classification. Data augmentation and early stopping are applied to improve model generalization and reduce overfitting.
 
 ## Objectives
@@ -35,10 +36,10 @@ Class Weight Balancing
 Fine-Tuning
 
 ## Dataset
-The dataset consists of fish images belonging to two categories:
+The dataset used in this study is publicly available.
 
-Healthy Fish
-Infected Fish
+Source: Mendeley Data
+Description: A labeled freshwater fish image dataset containing multiple fish disease categories along with healthy fish images.
 
 ## Project Structure
 '''Fish-Disease-Detection/
