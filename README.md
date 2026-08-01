@@ -35,6 +35,15 @@ Techniques used:
 - Class Weight Balancing
 - Fine-Tuning
 
+## 🔬 Methodology
+
+- Collected fish disease images from the Mendeley dataset.
+- Preprocessed images using resizing, normalization, and data augmentation.
+- Trained **CNN**, **VGG16**, and **DenseNet** models with transfer learning.
+- Applied **Early Stopping** and **Class Weights** to improve model performance.
+- Evaluated the models using Accuracy, Precision, Recall, F1-Score, ROC-AUC, and Confusion Matrix.
+- Compared model performance and selected the best-performing model for fish disease detection.
+
 ## 📂Dataset
 The dataset used in this study is publicly available.
 
