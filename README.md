@@ -79,6 +79,7 @@ Fish-Disease-Detection/
 
 Shiva Gupta
 
-- M.Tech, Aquacultural Engineering
-Indian Institute of Technology Kharagpur
+- M.Tech
+- Aquacultural Engineering
+- Indian Institute of Technology Kharagpur
 
