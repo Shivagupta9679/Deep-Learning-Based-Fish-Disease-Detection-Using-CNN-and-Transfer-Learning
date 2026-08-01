@@ -68,17 +68,17 @@ Fish-Disease-Detection/
 - VGG16 (fine-tuned): ~97% validation accuracy (best model)
 - Custom DenseNet-style: 86.8% test accuracy
 
-## Applications
-Aquaculture Farms
-Fisheries Management
-Fish Health Monitoring
-Smart Aquaculture Systems
-Computer Vision Applications in Agriculture
+## 🔮 Future Improvements
 
-## Author
+- Multi-class fish disease classification
+- Explainable AI using Grad-CAM
+- Streamlit web application
+- Cloud deployment
+
+## 👨‍💻Author
 
 Shiva Gupta
 
-M.Tech, Aquacultural Engineering
+- M.Tech, Aquacultural Engineering
 Indian Institute of Technology Kharagpur
 
