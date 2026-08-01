@@ -55,8 +55,9 @@ Fish-Disease-Detection/
 ```
 
 ## 📈Results
-
-
+- Custom CNN: 69% test accuracy
+- VGG16 (fine-tuned): ~97% validation accuracy (best model)
+- Custom DenseNet-style: 86.8% test accuracy
 
 ## Applications
 Aquaculture Farms
