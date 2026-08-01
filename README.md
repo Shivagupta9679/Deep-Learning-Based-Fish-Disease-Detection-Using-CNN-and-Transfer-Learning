@@ -41,8 +41,9 @@ The dataset used in this study is publicly available.
 Source: Mendeley Data
 Description: A labeled freshwater fish image dataset containing multiple fish disease categories along with healthy fish images.
 
-## Project Structure
-'''Fish-Disease-Detection/
+## 📁Project Structure
+```
+Fish-Disease-Detection/
 │
 ├── dataset/
 ├── notebooks/
@@ -50,13 +51,12 @@ Description: A labeled freshwater fish image dataset containing multiple fish di
 ├── models/
 ├── images/
 ├── README.md
-└── requirements.txt'''
+└── requirements.txt
+```
 
-## Results
+## 📈Results
 
-The transfer learning models demonstrated strong classification performance and achieved high accuracy in distinguishing healthy and infected fish images.
 
-The comparative analysis shows that pretrained deep learning models outperform the custom CNN in feature extraction and classification performance.
 
 ## Applications
 Aquaculture Farms
